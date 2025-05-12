@@ -1,5 +1,5 @@
 This repository is being used for work in the
-[Privacy Community Group](https://privacycg.github.io) of the
+[Privacy Community Group][def] of the
 [W3C](https://www.w3.org/), governed by the
 [W3C Community License Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/).
 
@@ -13,16 +13,19 @@ To add a contributor (other than yourself, that's automatic), mark them
 one per line as follows:
 
 ```
-+@github_username
++@github_usernamejdizzle113
 ```
 
 If you added a contributor by mistake, you can remove them in a comment
 with:
 
 ```
--@github_username
+-@github_usernamejdizzle113
 ```
 
 If you are making a pull request on behalf of someone else but you had
 no part in designing the feature, you can remove yourself with the above
 syntax.
+
+
+[def]: https://privacycg.github.io
